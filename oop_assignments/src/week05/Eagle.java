@@ -1,4 +1,4 @@
-package week01;
+package week05;
 
 class Eagle extends Bird {
     void fly() {

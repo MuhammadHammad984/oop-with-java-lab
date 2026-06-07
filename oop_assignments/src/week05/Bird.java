@@ -1,4 +1,4 @@
-package week01;
+package week05;
 
 class Bird {
     void fly() {
