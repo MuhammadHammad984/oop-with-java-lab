@@ -1,0 +1,15 @@
+.gitignore
+
+# Eclipse
+
+.classpath
+
+.project
+
+.settings/
+
+# Java
+
+bin/
+
+*.class
